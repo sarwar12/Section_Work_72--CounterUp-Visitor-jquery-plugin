@@ -1,0 +1,2 @@
+### Counter Up Plugin
+	https://github.com/bfintal/Counter-Up
